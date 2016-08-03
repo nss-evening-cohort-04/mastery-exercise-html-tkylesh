@@ -1,0 +1,25 @@
+#wrapper{
+	margin: 0 auto 0 auto;
+	padding-left: 4%;
+}
+
+#card{
+	display: inline-block;
+	border: solid 1px lightblue;
+	width: 30%;
+	margin-right: 2%;
+	margin-bottom: 4%;
+}
+
+header{
+	border: dotted 1px lightgray;
+	text-align: center;
+}
+
+.image{
+	margin: 5% auto 0 auto;
+
+}
+p{
+	padding-left: 2%;
+}
