@@ -1,9 +1,9 @@
-#wrapper{
+.wrapper{
 	margin: 0 auto 0 auto;
 	padding-left: 4%;
 }
 
-#card{
+.card{
 	display: inline-block;
 	border: solid 1px lightblue;
 	width: 30%;
@@ -11,7 +11,7 @@
 	margin-bottom: 4%;
 }
 
-.section1 > header{
+.description > header{
 	border: dotted 1px lightgray;
 	text-align: center;
 }
